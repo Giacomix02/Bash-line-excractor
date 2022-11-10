@@ -1,5 +1,5 @@
 # Bash-line-excractor
-This is a single line exctactor from a file
+This script extracts a single line from a file and returns the line found with the number of characters
 ## How use:
 * **1.** Go to download path or were the `extractor.sh` was downloaded
 * **2.** Run it typing `. extractor.sh`
